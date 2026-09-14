@@ -1,0 +1,6 @@
+{
+  "name": "Prophet Cash Flow Forecaster",
+  "description": "Prophet Cash Flow Forecaster & Strategy Simulator with Cash Problem Investigator and Gemini AI CFO Chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
